@@ -1,1 +1,1 @@
-voila app.ipynb
+voila --no-browser --enable_nbextensions=True app.ipynb
